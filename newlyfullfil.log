@@ -1,0 +1,6006 @@
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [id] => 5348353409162
+    [admin_graphql_api_id] => gid://shopify/Order/5348353409162
+    [app_id] => 580111
+    [browser_ip] => 102.89.22.11
+    [buyer_accepts_marketing] => 1
+    [cancel_reason] => 
+    [cancelled_at] => 
+    [cart_token] => Z2NwLXVzLWNlbnRyYWwxOjAxSEhIQ1NCUjBTSkJWSFo0MFRGWTQyRTla
+    [checkout_id] => 34998250963082
+    [checkout_token] => 0e2816f10dc1b905cf50d9baac8c9a90
+    [client_details] => Array
+        (
+            [accept_language] => en-NG
+            [browser_height] => 
+            [browser_ip] => 102.89.22.11
+            [browser_width] => 
+            [session_hash] => 
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        )
+
+    [closed_at] => 
+    [company] => 
+    [confirmation_number] => 21CVNJ8VU
+    [confirmed] => 1
+    [contact_email] => therymmagazine@gmail.com
+    [created_at] => 2023-12-13T12:33:20+01:00
+    [currency] => NGN
+    [current_subtotal_price] => 2629.95
+    [current_subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_additional_fees_set] => 
+    [current_total_discounts] => 0.00
+    [current_total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_duties_set] => 
+    [current_total_price] => 5031.20
+    [current_total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [current_total_tax] => 197.25
+    [current_total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [customer_locale] => en-NG
+    [device_id] => 
+    [discount_codes] => Array
+        (
+        )
+
+    [email] => therymmagazine@gmail.com
+    [estimated_taxes] => 
+    [financial_status] => paid
+    [fulfillment_status] => 
+    [landing_site] => /62795415690/orders/023b4d659e12b6f5495b7c65b5d4fe49
+    [landing_site_ref] => 
+    [location_id] => 
+    [merchant_of_record_app_id] => 
+    [name] => #1052
+    [note] => 
+    [note_attributes] => Array
+        (
+        )
+
+    [number] => 52
+    [order_number] => 1052
+    [order_status_url] => https://quickstart-ac4df350.myshopify.com/62795415690/orders/764ecc57dce678702eaa66e0704149be/authenticate?key=ebe4ffb10e738f3127d24db0859ccd95
+    [original_total_additional_fees_set] => 
+    [original_total_duties_set] => 
+    [payment_gateway_names] => Array
+        (
+            [0] => Paystack
+        )
+
+    [phone] => 
+    [po_number] => 
+    [presentment_currency] => NGN
+    [processed_at] => 2023-12-13T12:33:18+01:00
+    [reference] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [referring_site] => 
+    [source_identifier] => da6a4d3a2bdbc3e9902b0c0a99109648
+    [source_name] => web
+    [source_url] => 
+    [subtotal_price] => 2629.95
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [tags] => 
+    [tax_exempt] => 
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 197.25
+                    [rate] => 0.075
+                    [title] => VAT
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 197.25
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [channel_liable] => 
+                )
+
+        )
+
+    [taxes_included] => 
+    [test] => 1
+    [token] => 764ecc57dce678702eaa66e0704149be
+    [total_discounts] => 0.00
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_line_items_price] => 2629.95
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2629.95
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_outstanding] => 0.00
+    [total_price] => 5031.20
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 5031.20
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 2204.00
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tax] => 197.25
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 197.25
+                    [currency_code] => NGN
+                )
+
+        )
+
+    [total_tip_received] => 0.00
+    [total_weight] => 0
+    [updated_at] => 2023-12-13T12:33:21+01:00
+    [user_id] => 
+    [billing_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [customer] => Array
+        (
+            [id] => 6901388476554
+            [email] => therymmagazine@gmail.com
+            [accepts_marketing] => 1
+            [created_at] => 2023-11-20T10:41:35+01:00
+            [updated_at] => 2023-12-13T16:06:31+01:00
+            [first_name] => Anuoluwapo
+            [last_name] => Wahab
+            [state] => disabled
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [email_marketing_consent] => Array
+                (
+                    [state] => subscribed
+                    [opt_in_level] => single_opt_in
+                    [consent_updated_at] => 2023-12-02T15:59:47+01:00
+                )
+
+            [sms_marketing_consent] => 
+            [tags] => 
+            [currency] => NGN
+            [accepts_marketing_updated_at] => 2023-12-02T15:59:47+01:00
+            [marketing_opt_in_level] => single_opt_in
+            [tax_exemptions] => Array
+                (
+                )
+
+            [admin_graphql_api_id] => gid://shopify/Customer/6901388476554
+            [default_address] => Array
+                (
+                    [id] => 8370247368842
+                    [customer_id] => 6901388476554
+                    [first_name] => Anuoluwapo
+                    [last_name] => Wahab
+                    [company] => 
+                    [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+                    [address2] => 
+                    [city] => Lagos
+                    [province] => Lagos
+                    [country] => Nigeria
+                    [zip] => 100252
+                    [phone] => 08025626677
+                    [name] => Anuoluwapo Wahab
+                    [province_code] => LA
+                    [country_code] => NG
+                    [country_name] => Nigeria
+                    [default] => 1
+                )
+
+        )
+
+    [discount_applications] => Array
+        (
+        )
+
+    [fulfillments] => Array
+        (
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13567301779594
+                    [admin_graphql_api_id] => gid://shopify/LineItem/13567301779594
+                    [attributed_staffs] => Array
+                        (
+                        )
+
+                    [fulfillable_quantity] => 1
+                    [fulfillment_service] => snow-city-warehouse
+                    [fulfillment_status] => 
+                    [gift_card] => 
+                    [grams] => 0
+                    [name] => The 3p Fulfilled Snowboard
+                    [price] => 2629.95
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2629.95
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [product_exists] => 1
+                    [product_id] => 7840858865802
+                    [properties] => Array
+                        (
+                        )
+
+                    [quantity] => 1
+                    [requires_shipping] => 1
+                    [sku] => sku-hosted-1
+                    [taxable] => 1
+                    [title] => The 3p Fulfilled Snowboard
+                    [total_discount] => 0.00
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [variant_id] => 43998450253962
+                    [variant_inventory_management] => shopify
+                    [variant_title] => 
+                    [vendor] => Quickstart (ac4df350)
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [channel_liable] => 
+                                    [price] => 197.25
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 197.25
+                                                    [currency_code] => NGN
+                                                )
+
+                                        )
+
+                                    [rate] => 0.075
+                                    [title] => VAT
+                                )
+
+                        )
+
+                    [duties] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [payment_terms] => 
+    [refunds] => Array
+        (
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Anuoluwapo
+            [address1] => 36, ijaoye street, caaso bus stop alagbado lagos state
+            [phone] => 08025626677
+            [city] => Lagos
+            [zip] => 100252
+            [province] => Lagos
+            [country] => Nigeria
+            [last_name] => Wahab
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Anuoluwapo Wahab
+            [country_code] => NG
+            [province_code] => LA
+        )
+
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4528127574154
+                    [carrier_identifier] => 650f1a14fa979ec5c74d063e968411d4
+                    [code] => standard
+                    [discounted_price] => 2204.00
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [phone] => 
+                    [price] => 2204.00
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 2204.00
+                                    [currency_code] => NGN
+                                )
+
+                        )
+
+                    [requested_fulfillment_service_id] => 
+                    [source] => GIGL
+                    [title] => GIG-Logistics-Shippings
+                    [tax_lines] => Array
+                        (
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)

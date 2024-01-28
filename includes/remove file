@@ -1,0 +1,238 @@
+<?php
+include_once('function.php');
+include_once('gigl_shipping_api');
+// webhook.php
+$data = file_get_contents("php://input"); // Get the incoming data from Shopify
+$request = json_decode($data, true);
+
+// Verify the request comes from Shopify (implement your own verification logic)
+
+// Calculate shipping rates based on the request data
+$rates = calculateShippingRates($request);
+
+// Respond with the shipping rate information
+header('Content-Type: application/json');
+echo json_encode(['rates' => $rates]);
+
+function calculateShippingRates($request) {
+    //Implement your shipping rate calculation logic here
+     include_once('countries_state.php');
+     $title = 'Gigl Delivery';
+     $get_shop = get_shop();
+    $gigl_initiate = new WC_Gigl_Delivery_API($get_shop);
+    $destination = $request['rate']['destination'];
+    $origin = $request['rate']['origin'];
+    $items = $request['rate']['items'];
+    //$des= json_encode($items);
+    //         // if ($destination['country'] !== 'NG') {
+				
+	// 		// 	return;
+	// 		// }
+	// 		$items_count = count($items); $item_cost_total=0; $item_grams_quantity=array();
+    //         if($items_count){
+    //             foreach($items as $item){
+    //                 $item_cost_total =+ $item['price'];
+    //                 $item_grams_quantity[''] .= (($item['grams']) ? ((!empty($item_grams_quantity)) ? ('[Quantity: '.$item['quantity'].' Grams: '.$item['quantity'].$item['grams'].']') : (',[Quantity: '.$item['quantity'].' Grams: '.$item['grams'])) : '');
+    //             }
+    //         }
+	// 		$delivery_country_code = $destination['country'];
+	// 		$delivery_state_code = $destination['province'];
+	// 		$delivery_city = $destination['city'];
+	// 		$delivery_postcode = $destination['postal_code'];
+	// 		$delivery_base_address = $destination['address1'];
+
+	// 		$delivery_base_contents = $item_grams_quantity;
+    //         $delivery_receiver_name      = $destination['name'];
+    //         $delivery_receiver_email     = $destination['email'];
+    //         $delivery_receiver_phone     = $destination['phone'];
+	// 		//$delivery_base_user_id = $destination['ID']; //this is not provided for by shopify
+	// 		$delivery_base_cart_subtotal = $package['cart_subtotal'];
+			
+	// 		$delivery_state = gigl_state()[$delivery_state_code];
+	// 		$delivery_country = gigl_countries()[$delivery_country_code];
+	// 		if(empty($delivery_postcode)){
+	// 			$delivery_postcode='';
+	// 		}
+    //         try {
+    //             //$apisss = wc_gigl_delivery()->get_apiss();
+    //             $api = wc_gigl_delivery()->get_api();
+    //             } catch (\Exception $e) {
+    //             wc_add_notice(__('Gigl Delivery shipping method could not set up'), 'notice');
+    //            wc_add_notice(__($e->getMessage()) . ' Please Contact Support' , 'error'); 
+               
+    //             return;
+    //         }
+    //         $get_shop = get_shop();
+    //         $get_sender = unserialize($get_shop['meta']); $sender_state_code = $origin['province']; $sender_country_code = $origin['country'];
+    //        $sender_name        =  (!empty($get_sender['shipping_sender_name']) ? $get_sender['shipping_sender_name'] : $origin['company_name']);
+    //        $sender_phone       = (!empty($get_sender['shipping_sender_phone']) ? $get_sender['shipping_sender_phone'] : $origin['phone']);
+    //        $pickup_city 		= (!empty($get_sender['shipping_pickup_city']) ? $get_sender['shipping_pickup_city'] : $origin['city']);
+    //        $pickup_postcode 	= (!empty($get_sender['shipping_pickup_postcode']) ? $get_sender['shipping_pickup_postcode'] : $origin['postal_code']);
+    //        $pickup_state 		= (!empty($get_sender['shipping_pickup_state']) ? $get_sender['shipping_pickup_state'] : gigl_state()[$sender_state_code]);
+    //        $pickup_base_address = (!empty($get_sender['shipping_pickup_address']) ? $get_sender['shipping_pickup_address'] : $origin['address1']);
+    //        $pickup_country 	= (!empty($get_sender['shipping_pickup_country']) ? $get_sender['shipping_pickup_country'] : gigl_countries()[$sender_country_code]);
+    //        if (trim($pickup_country) == '') {
+    //                $pickup_country = 'NG';
+    //            }
+
+    //        if($delivery_receiver_email ){
+    //            $author_obj = (object)['display_name'=>$delivery_receiver_name, 'user_email'=>$delivery_receiver_email, 'phone'=>$delivery_receiver_phone];
+    //            $delivery_base_receiver_name = $author_obj->display_name;
+    //            $delivery_base_receiver_email = $author_obj->user_email;
+    //            $delivery_base_receiver_phone = $phone = $delivery_receiver_phone;
+    //        }else{
+    //            $delivery_base_receiver_name = "Not login user";
+    //            $delivery_base_receiver_email = "nouser@demo.com";
+    //            $delivery_base_receiver_phone = "08030000000";
+    //        }
+
+    //        $receiver_name      = $delivery_base_receiver_name;
+    //        $receiver_email     = $delivery_base_receiver_email;
+    //        $receiver_phone     = $delivery_base_receiver_phone;
+           
+           
+    //        $preShipmentItems = array();
+    //        foreach( $items as $item ){
+            
+    //         // $get_product = $shopify->rest_api('/admin/api/2021-04/products/' . end($item['product_id']) . '.json', array(), 'GET');
+    //         // $product_details = json_decode($get_product['body'], true);
+
+    //            $product_id = $item["product_id"];
+    //            $product = $item; //$product_details['data'];
+    //            //$product->get_price();
+               
+    //            $eachProductItem = array(
+    //                                    "SpecialPackageId" => "0", 
+    //                                    "Quantity" => $item['quantity'], 
+    //                                    "Weight" => $item['grams'], 
+    //                                    "ItemType" => "Normal", 
+    //                                    "WeightRange" => "0", 
+    //                                    "ItemName" => $item['name'], 
+    //                                    "Value" => $item["price"],
+    //                                    "ShipmentType" => $item["fulfillment_service"]
+    //                                    );
+
+    //            $preShipmentItems[] = $eachProductItem;
+
+    //        }
+           
+           
+           
+    //        $todaydate =  date('Y-m-d H:i:s', time());
+    //        $pickup_date = date('Y-m-d H:i:s', strtotime($todaydate . ' +1 day'));
+    //        $delivery_date = date('Y-m-d H:i:s', strtotime($todaydate . ' +2 day'));
+           
+           
+    //        if($delivery_postcode == '' || empty($delivery_postcode)) { 
+
+    //            $delivery_address = trim("$delivery_base_address $delivery_city, $delivery_state, $delivery_country");
+    //            $delivery_coordinate = $api->get_lat_lng($delivery_address);
+               
+    //            if (!isset($delivery_coordinate['Latitude']) && !isset($delivery_coordinate['Longitude'])) {
+    //                $delivery_coordinate = $api->get_lat_lng("$delivery_city, $delivery_state, $delivery_country");
+    //            }
+    //            if (!isset($delivery_coordinate['Latitude']) && !isset($delivery_coordinate['Longitude'])) {
+    //                $delivery_coordinate = $api->get_lat_lng("$delivery_state, $delivery_country");
+    //            }
+               
+    //            $pickup_address = trim("$pickup_base_address $pickup_city, $pickup_state, $pickup_country");
+    //            $pickup_coordinate = $api->get_lat_lng($pickup_address);
+               
+    //            if (!isset($pickup_coordinate['Latitude']) && !isset($pickup_coordinate['Longitude'])) {
+    //                $pickup_coordinate = $api->get_lat_lng("$pickup_city, $pickup_state, $pickup_country");
+    //            }
+           
+    //        }else {
+           
+           
+    //            $delivery_address = $delivery_postcode . ',' . $delivery_city . ',' . $delivery_state . ',nigeria';
+    //            $delivery_address = trim("$delivery_address");
+    //            $delivery_addressd = trim("$delivery_base_address $delivery_city, $delivery_state, $delivery_country,$delivery_postcode");
+    //            $delivery_coordinate = $api->get_lat_lng($delivery_address);
+               
+    //            if (!isset($delivery_coordinate['Latitude']) && !isset($delivery_coordinate['Longitude'])) {
+    //                $delivery_coordinate = $api->get_lat_lng("$delivery_address");
+    //            }
+               
+    //            $pickup_address = $pickup_postcode . ',' . $pickup_city . ',' . $pickup_state . ',nigeria';
+    //            $pickup_address = trim("$pickup_address");
+    //            $pickup_addressd = trim("$pickup_base_address $pickup_city, $pickup_state, $pickup_country, $pickup_postcode");
+    //            $pickup_coordinate = $api->get_lat_lng($pickup_address);
+               
+    //            if (!isset($pickup_coordinate['Latitude']) && !isset($pickup_coordinate['Longitude'])) {
+    //                $pickup_coordinate = $api->get_lat_lng("$pickup_address");
+    //            }
+           
+    //        }
+    //        $receiverLocation = array(
+    //                                "Latitude" => $delivery_coordinate['Latitude'],
+    //                                "Longitude" => $delivery_coordinate['Longitude']
+    //                                );
+
+    //        $senderLocation = array(
+    //                                "Latitude" => $pickup_coordinate['Latitude'],
+    //                                "Longitude" => $pickup_coordinate['Longitude']
+    //                                );
+           
+    //            $params = array(
+    //                        "ReceiverAddress" => $delivery_address,  
+    //                        "SenderLocality" => $pickup_city,
+    //                        "SenderAddress" => $pickup_address, 
+    //                        "ReceiverPhoneNumber" => $receiver_phone, 
+    //                        "VehicleType" => "BIKE", 
+    //                        "SenderPhoneNumber" => $sender_phone, 
+    //                        "SenderName" => $sender_name,
+    //                        "ReceiverName" => $receiver_name, 
+    //                        "ReceiverLocation" => $receiverLocation,
+    //                        "SenderLocation" => $senderLocation,
+    //                        "PreShipmentItems" => $preShipmentItems
+    //                        );
+    //     try {
+    //         $res = $api->calculate_pricing($params);
+    //         } catch (\Exception $e) {
+    //            echo 'Gigl Delivery pricing calculation could not complete';
+    //        return;
+    //     }
+       
+    //     $data = $res;
+    //    //$verifyValue = json_encode($data);
+    //     $handling_fee = 0;
+       
+    //     $cost = wc_format_decimal($data->Object->DeliveryPrice) + wc_format_decimal($handling_fee);
+       
+    //     $rates = [
+    //         [
+    //             'service_name' => $title,
+    //             'service_code' => 'standard',
+    //             'total_price' => (double)$data->Object->DeliveryPrice, // Adjust based on your calculation
+    //             'service_code' => 'GIGL',
+    //             'description' => 'This is the fastest option to deliver you goods by far', 
+    //             "currency" => "NGN",
+    //         ],
+    //         // Add more rates as needed
+    //     ];
+    //     return $rates;
+    // //    $this->add_rate(array(
+    // //    'id'    	=> $this->id . $this->instance_id,
+    // //    'label' 	=> $this->title,
+    // //    'cost'  	=> $cost,
+    // //    'meta_data' => array(
+    // //    'per_task_cost'		   => $data->Object->DeliveryPrice,
+    // //    'insurance_amount'     => $data->Object->InsuranceValue,
+    // //    'total_no_of_tasks'    => count($data->Object->PreshipmentMobile->PreShipmentItems),
+    // //    'total_service_charge' => $data->Object->Vat
+    // //    )
+    // //    ));
+
+    $rates = [
+        [
+            'service_name' => 'GIG Logistics',
+            'service_code' => 'standard',
+            'total_price' => 9000.00, // Adjust based on your calculation
+            'description' => 'This is the fastest option to deliver you goods by far', 
+            "currency" => "NGN",
+        ],
+        // Add more rates as needed
+    ];
+    return $rates;
+}
